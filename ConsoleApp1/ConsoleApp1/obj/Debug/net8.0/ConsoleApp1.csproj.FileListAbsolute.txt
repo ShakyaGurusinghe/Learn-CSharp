@@ -1,0 +1,15 @@
+/Users/shakyak.gurusinghe/Documents/GitHub/Learn-CSharp/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/shakyak.gurusinghe/Documents/GitHub/Learn-CSharp/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/shakyak.gurusinghe/Documents/GitHub/Learn-CSharp/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/shakyak.gurusinghe/Documents/GitHub/Learn-CSharp/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/shakyak.gurusinghe/Documents/GitHub/Learn-CSharp/ConsoleApp1/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/shakyak.gurusinghe/Documents/GitHub/Learn-CSharp/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shakyak.gurusinghe/Documents/GitHub/Learn-CSharp/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/shakyak.gurusinghe/Documents/GitHub/Learn-CSharp/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/shakyak.gurusinghe/Documents/GitHub/Learn-CSharp/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/shakyak.gurusinghe/Documents/GitHub/Learn-CSharp/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.sourcelink.json
+/Users/shakyak.gurusinghe/Documents/GitHub/Learn-CSharp/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/shakyak.gurusinghe/Documents/GitHub/Learn-CSharp/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/shakyak.gurusinghe/Documents/GitHub/Learn-CSharp/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/shakyak.gurusinghe/Documents/GitHub/Learn-CSharp/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/shakyak.gurusinghe/Documents/GitHub/Learn-CSharp/ConsoleApp1/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
